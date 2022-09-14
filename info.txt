@@ -1,0 +1,12 @@
+Header
+Main
+    Home
+    Functions
+        __slider
+        __desc
+    Hero (Reviews)
+    Prices
+    FAQ
+    Contacts
+Footer
+
